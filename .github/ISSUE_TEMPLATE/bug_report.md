@@ -1,7 +1,7 @@
 ---
 name: Сообщить об ошибке
 description: Если в Swapl что-то работает не так
- title: "[Ошибка] "
+title: "[Ошибка] "
 labels: []
 assignees: []
 ---
